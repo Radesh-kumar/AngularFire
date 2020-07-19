@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "crud-1bd25": {
+      "hosting": {
+        "crud": [
+          "crud-1bd25"
+        ]
+      }
+    }
+  }
+}
